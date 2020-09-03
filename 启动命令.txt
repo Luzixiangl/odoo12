@@ -1,0 +1,1 @@
+python.exe odoo-bin -c odoo.conf -l zh-CN
